@@ -6,7 +6,7 @@ import java.util.Scanner;
 import static java.lang.Integer.parseInt;
 
 /*
- *  UCF COP3330 Fall 2021 Assignment 16 Solution
+ *  UCF COP3330 Fall 2021 Assignment 17 Solution
  *  Copyright 2021 Tyler Coleman
  */
 public class App 
